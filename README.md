@@ -7,4 +7,4 @@ cd ./projeto_matriz
 
 npm install
 
-node determinante
+node determinante.js
